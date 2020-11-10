@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+//this is weird. Why is this happening?
 const Schema = mongoose.Schema;
 
 const transactionSchema = new Schema(
